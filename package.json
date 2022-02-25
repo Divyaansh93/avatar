@@ -3,10 +3,13 @@
   "version": "0.1.4",
   "main": "dist/Avatar/index.js",
   "private": false,
-  "files": [ "dist", "README.md" ],
+  "files": [
+    "dist",
+    "README.md"
+  ],
   "repository": {
-      "type": "git",
-      "url": "https://github.com/Divyaansh93/avatar"
+    "type": "git",
+    "url": "https://github.com/Divyaansh93/avatar"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
